@@ -1,0 +1,103 @@
+img {
+	border-radius: 120px;
+	width: 120px;
+}
+
+h1 {
+	font-family: sans-serif;
+	font-size: 5em;
+	background-color: #6B5C4D;
+	border: 2px solid black;
+	border-radius: 8px;
+	text-align: center;
+	width: 940px;
+	margin: auto;
+	color: #CCB299;
+
+}
+
+html {
+	background-color: #666666;
+	color: white;
+}
+
+p {
+	margin: auto;
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 2em;
+}
+
+button {
+	text-align: center;
+	margin: auto;
+	font-family: sans-serif;
+	color: white;
+	background-color: black;
+	border: dotted 3px white;
+	border-radius: 5px;
+	width: 350px;
+}
+
+#nameEntry {
+	color: orange;
+}
+
+.mudderNumbers {
+	text-align: left;
+	font-size: 1.8em;
+}
+
+#lights {
+	margin: center;
+	text-align: center;
+	font-size: 2em;
+}
+
+#red {
+	background-color: red;
+	width: 150px;
+	height: 150px;
+	border-radius: 75px;
+	color: black;
+	display: inline-block;
+	text
+}
+
+#yellow {
+	background-color: yellow;
+	width: 150px;
+	height: 150px;
+	border-radius: 75px;
+	color: black;
+	display: inline-block;
+}
+
+#green {
+	background-color: #33CC33;
+	width: 150px;
+	height: 150px;
+	border-radius: 75px;
+	color: black;
+	display: inline-block;
+}
+
+#redText {
+	font-size: 1.1em;
+	padding-top: 50px;
+}
+
+#yellowText {
+	font-size: 1.1em;
+	padding-top: 50px;
+}
+
+#greenText {
+	font-size: 1.1em;
+	padding-top: 50px;
+}
+
+.raceTime {
+	background-color: black;
+	color: white;
+}
